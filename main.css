@@ -1,0 +1,19 @@
+ body{
+    background-color: rgb(250, 246, 246);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+}
+nav{
+    display: flex;
+    color: rgb(209, 204, 154);
+}
+.optimus {
+    color:lightpink;
+    flex:50;
+
+}
+li{
+    align-content: space-around;
+    list-style-type: none;
+    padding-left: 30px;
+}
