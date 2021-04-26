@@ -108,7 +108,7 @@ article.kitty {
     display: block;
     float: left;
     width: 10%;
-    height: 40vh;
+    height: 38vh;
     margin-top: 10pt;
     margin-left: 10pt;
     background-image: url(../papeders/KittyB.jpg);
@@ -128,7 +128,7 @@ article.family {
     display: block;
     float: left;
     width: 40%;
-    height: 45vh;
+    height: 40vh;
     margin-top: 10pt;
     margin-left: 10pt;
     margin-right: 10pt;
@@ -140,7 +140,7 @@ article.pups {
     display: block;
     float: left;
     width: 17%;
-    height: 34vh;
+    height: 30vh;
     margin-right: 10pt;
     margin-left: 10pt;
     margin-top: 10pt;
@@ -152,7 +152,7 @@ article.bjp{
     display: block;
     float: left;
     width: 25%;
-    height: 35vh;
+    height: 32vh;
     margin-top: 10pt;
     margin-left: 10pt;
     background-image: url(../papeders/BJP3.jpg);
@@ -163,7 +163,7 @@ article.mom {
         display: block;
         float: left;
         width: 13.5%;
-        height: 36vh;
+        height: 32vh;
         margin-top: 10pt;
         margin-left: 10pt;
         margin-right: 10pt;
@@ -191,7 +191,7 @@ article.halloween {
             display: block;
             float: left;
             width: 10%;
-            height: 38vh;
+            height: 37vh;
             margin-right: 10pt;
             margin-left: 10pt;
             margin-top: 10pt;
@@ -204,7 +204,7 @@ article.brandon {
     display: block;
     float: left;
     width: 16%;
-    height: 18vh;
+    height: 17vh;
     margin-right: 10pt;
     margin-left: 10pt;
     margin-top: 10pt;
