@@ -80,6 +80,21 @@ aside{
 #quote{
     background-color: white;
 }
+#quote1{
+    background-color: rgb(197, 145, 2);
+}
+#quote2{
+    background-color:gray;
+}
+#quote3{
+    background-color: white;
+}
+#quote4{
+    background-color:rgb(197, 145, 2);
+}
+#quote5{
+    background-color: gray;
+}
 .sidebar {
     float: right;
     flex-wrap: wrap;
@@ -88,9 +103,7 @@ aside{
 p{
  font-family: 'Cutive Mono' , monospace;
 }
-.info{
-    float: center;
-}
+
 article.kitty {
     display: block;
     float: left;
